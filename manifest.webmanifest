@@ -1,0 +1,15 @@
+{
+  "name": "Guia de Viagem SCAJ 2026",
+  "short_name": "SCAJ 2026",
+  "description": "Guia de viagem da delegação brasileira — SCAJ 2026 e Taste of the Harvest 2026, Tóquio.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2ece3",
+  "theme_color": "#d29e4c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
